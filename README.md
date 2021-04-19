@@ -4,7 +4,7 @@
 
 ## Web Developer | Youtube Content Creator
 
-<font color="grey">Coffee :coffee: is how I keep up with `< code />` </font>
+<font color="grey">An ever-evolving developer`< code />` </font>
 
 ### Reach out to me
 
