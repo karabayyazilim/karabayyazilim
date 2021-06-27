@@ -37,11 +37,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Nedir ?](https://www.karabayyazilim.com/blog/docker-nedir-2021-06-24-162807)
 - [Laravel Octane v1.0 Yayınlandı](https://www.karabayyazilim.com/blog/laravel-octane-v10-yayinlandi-2021-05-12-212603)
 - [Kubernetes Nedir ?](https://www.karabayyazilim.com/blog/kubernetes-nedir-2021-03-24-191423)
 - [Laravel Veritabanı Sorgularını Nasıl Optimize Ederiz ?](https://www.karabayyazilim.com/blog/laravel-veritabani-sorgularini-nasil-optimize-ederiz-2021-03-21-185044)
 - [Laravel ile Veri Klonlama İşlemi Yapımı](https://www.karabayyazilim.com/blog/laravel-ile-veri-klonlama-islemi-yapimi-2021-03-16-034107)
-- [Swift 5.4 ile Yeni Gelen Özellikler](https://www.karabayyazilim.com/blog/swift-54-ile-yeni-gelen-ozellikler-2021-02-24-145655)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
