@@ -27,11 +27,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Laravel DB Transation Kullanımı](https://www.youtube.com/watch?v=UBzSEEprbfM)
 - [42 İstanbul Deneyimlerim](https://www.youtube.com/watch?v=yDTkPzT6VV0)
 - [Vue js ile Quiz Uygulaması Yapımı](https://www.youtube.com/watch?v=YbtG6-SfC8k)
 - [Laravel ile MongoDB Kullanımı](https://www.youtube.com/watch?v=8U5h0L9GHu4)
 - [Yazılım Deneyimlerim &lpar;Ezbere Kod Yazmak&rpar;](https://www.youtube.com/watch?v=F-w6cs1rdNo)
-- [Laravel Form Request Validation Kullanımı](https://www.youtube.com/watch?v=9WhAb6RWnu0)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
