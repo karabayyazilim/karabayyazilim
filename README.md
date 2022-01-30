@@ -27,11 +27,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [42 Kafası Bölüm I](https://www.youtube.com/watch?v=17lCzmojoog)
+- [42 Kafası Bölüm 0](https://www.youtube.com/watch?v=vpPhb5jNotY)
 - [Laravel Accessor Kullanımı](https://www.youtube.com/watch?v=8tEgKzD8aDY)
 - [Laravel DB Transation Kullanımı](https://www.youtube.com/watch?v=UBzSEEprbfM)
 - [42 İstanbul Deneyimlerim](https://www.youtube.com/watch?v=yDTkPzT6VV0)
-- [Vue js ile Quiz Uygulaması Yapımı](https://www.youtube.com/watch?v=YbtG6-SfC8k)
-- [Laravel ile MongoDB Kullanımı](https://www.youtube.com/watch?v=8U5h0L9GHu4)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
