@@ -27,11 +27,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [42 Kafası Bölüm 3](https://www.youtube.com/watch?v=AkOKT39Tnmw)
-- [42 Kafası Nölüm 2](https://www.youtube.com/watch?v=xYG_g69i-Gg)
+- [42 Kafası Bölüm V](https://www.youtube.com/watch?v=nN4jHQbSbxg)
+- [42 Kafası Bölüm IV:](https://www.youtube.com/watch?v=F_SIm9A3o5w)
+- [42 Kafası Bölüm III](https://www.youtube.com/watch?v=AkOKT39Tnmw)
+- [42 Kafası Nölüm II](https://www.youtube.com/watch?v=xYG_g69i-Gg)
 - [42 Kafası Bölüm I](https://www.youtube.com/watch?v=17lCzmojoog)
-- [42 Kafası Bölüm 0](https://www.youtube.com/watch?v=vpPhb5jNotY)
-- [Laravel Accessor Kullanımı](https://www.youtube.com/watch?v=8tEgKzD8aDY)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
