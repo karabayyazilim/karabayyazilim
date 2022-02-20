@@ -37,11 +37,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 9 Piyasaya Sürüldü](https://www.karabayyazilim.com/blog/laravel-9-piyasaya-suruldu-2022-02-16-125140)
 - [Micro Services&amp;#039;ler Nedir Ve Niçin Kullanmalıyım ?](https://www.karabayyazilim.com/blog/micro-servicesler-nedir-ve-nicin-kullanmaliyim-2022-01-23-115456)
 - [Design Pattern Nedir ?](https://www.karabayyazilim.com/blog/design-pattern-nedir-2021-12-18-143754)
 - [Docker Nedir ?](https://www.karabayyazilim.com/blog/docker-nedir-2021-06-24-162807)
 - [Laravel Octane v1.0 Yayınlandı](https://www.karabayyazilim.com/blog/laravel-octane-v10-yayinlandi-2021-05-12-212603)
-- [Kubernetes Nedir ?](https://www.karabayyazilim.com/blog/kubernetes-nedir-2021-03-24-191423)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
