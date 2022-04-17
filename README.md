@@ -27,11 +27,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [42 Kafası Bölüm XII:](https://www.youtube.com/watch?v=dhac2KqXSgY)
 - [42 Kafası Bölüm XI:](https://www.youtube.com/watch?v=yccOPHoYFXw)
 - [42 Kafası Bölüm VIII:](https://www.youtube.com/watch?v=k8ghTLNsSq8)
 - [42 Kafası Bölüm VII:](https://www.youtube.com/watch?v=uwMcFzaXTdQ)
 - [42 Kafası Bölüm ?:](https://www.youtube.com/watch?v=_QYF5H0Remw)
-- [42 Kafası Bölüm VI:](https://www.youtube.com/watch?v=D_eFfrU3u_g)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
