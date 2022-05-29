@@ -27,11 +27,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Havelsan Ekspres vLog](https://www.youtube.com/watch?v=hTLArnq2QWo)
 - [42 Kafası Bölüm XIII:](https://www.youtube.com/watch?v=9cCS59skbzA)
 - [42 Kafası Bölüm XII:](https://www.youtube.com/watch?v=dhac2KqXSgY)
 - [42 Kafası Bölüm XI:](https://www.youtube.com/watch?v=yccOPHoYFXw)
 - [42 Kafası Bölüm VIII:](https://www.youtube.com/watch?v=k8ghTLNsSq8)
-- [42 Kafası Bölüm VII:](https://www.youtube.com/watch?v=uwMcFzaXTdQ)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
