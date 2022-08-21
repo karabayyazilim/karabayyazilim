@@ -27,11 +27,11 @@
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Node Js Boilerplate - 1](https://www.youtube.com/watch?v=7lOD9_DWk68)
 - [Havelsan Ekspres vLog](https://www.youtube.com/watch?v=hTLArnq2QWo)
 - [42 Kafası Bölüm XIII:](https://www.youtube.com/watch?v=9cCS59skbzA)
 - [42 Kafası Bölüm XII:](https://www.youtube.com/watch?v=dhac2KqXSgY)
 - [42 Kafası Bölüm XI:](https://www.youtube.com/watch?v=yccOPHoYFXw)
-- [42 Kafası Bölüm VIII:](https://www.youtube.com/watch?v=k8ghTLNsSq8)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
