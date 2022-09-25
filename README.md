@@ -5,7 +5,9 @@
 </h1>
 
 ### Hi there, I am Ali <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
- Full Stack Developer <br>
+💻 Full Stack Developer <br>
+📙 Blogger <br>
+▶️ Youtube Content Creator <br>
 
 <p align="center">
 <br>
@@ -37,7 +39,7 @@ Connect with me
 <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
 </a> &nbsp;
 
-<a href="https://linkedin.com/in/karabayyazilim" target="_blank">
+<a href="https://linkedin.com/in/alikarabay" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> &nbsp;
 
