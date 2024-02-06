@@ -5,7 +5,7 @@
 </h1>
 
 ### Hi there, I am Ali <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-💻 Full Stack Developer <br>
+💻 Software Developer <br>
 📙 Blogger <br>
 ▶️ Youtube Content Creator <br>
 
@@ -15,7 +15,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-I have been working in Web Development for 5 years. Specifically, I'm working on Backend & Frontend projects. I also share my experiences on blogging and youtube.
+I have been working in the field of Software Development since high school and have experience in both Backend and Frontend projects. I share the technologies I use in my projects and the knowledge I have gained on my blog and YouTube channel. I am constantly focusing on improving myself and sharing what I have learnt with other developers.
 </p>
 <center>
 <br>
